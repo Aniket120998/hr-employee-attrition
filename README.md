@@ -24,3 +24,12 @@ This project was done to analyze the growth of teams and how to survive in premi
 The Dataset has all the result from season 1993-94 to season 2018.  Out of 9664 observation there are 2772 missing cells most of them contain the half time goals at home and away. The dataset also gives idea of how to survive in premier league.
 
 To check out my notebook please click [here](https://github.com/Aniket120998/hr-employee-attrition/blob/main/English%20Premier%20league%20dataset.ipynb)
+# Applying Machine Learning algorithm on Avocado dataset
+
+
+![](https://github.com/Aniket120998/hr-employee-attrition/blob/main/Avocad0-CD.jpg?raw=true)
+
+Details about my project:
+This project was done to analyze the growth of Avocado in different parts of America based on 2 types of organic and conventional and its growth in Average price  from 2016 to 2018. Different Machine Learning algorithms were also applied such as Linear regressor, Decision tree regressor and Random forest regressor. 
+	By applying this we can get a pattern of change in price of Avocado in different year and also the error if any. Random forest regressor showed  less error as compared to linear regressor or decision tree regressor.
+To check out my notebook please click [here](https://github.com/Aniket120998/hr-employee-attrition/blob/main/Avocado%20dataset%20ML.ipynb)
